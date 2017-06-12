@@ -1,6 +1,5 @@
 #include "utils.h"
 
-#include <Psapi.h>
 #include <iostream>
 
 bool init_console()
